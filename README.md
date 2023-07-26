@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YUJIT YADAV</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&center=true&vCenter=true&width=1100&height=200&lines=👋+YUJIT+I'm YUJIT YADAV)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&center=true&vCenter=true&width=1100&height=200&lines=Hi+👋+I'm+YUJIT+YADAV)](https://git.io/typing-svg)
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 🌱 I’m currently learning **Machine Learning**
